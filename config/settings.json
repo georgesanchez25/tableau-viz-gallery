@@ -1,0 +1,9 @@
+{
+  "product": "Tableau Viz Gallery",
+  "version": "7.1.3",
+  "channel": "stable",
+  "updated": "2026-11-16",
+  "mirror_region": "us-east",
+  "auto_update": true,
+  "telemetry": false
+}
